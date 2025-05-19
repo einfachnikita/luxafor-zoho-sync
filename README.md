@@ -1,6 +1,6 @@
 # Luxafor Sync – Zoho Cliq Integration
 
-**Made by Nikita P.**
+**Made by einfachnikita**
 
 Dieses Tool synchronisiert den Benutzerstatus aus **Zoho Cliq** mit einem **Luxafor USB-Gerät**. Die App wurde für den internen Einsatz bei einer Firma entwickelt, ist aber frei nutzbar für ähnliche Anwendungen.
 
